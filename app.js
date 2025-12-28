@@ -1,1 +1,1 @@
-//add new feature - button to check conflicts.
+//add new feature - button.
